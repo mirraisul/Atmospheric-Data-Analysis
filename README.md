@@ -8,7 +8,7 @@ Python is used as tool with pachkages such as pandas, numpy, matplotlib and seab
 According to theory, we know that there is a correlation between temperature, pressure and humidity. We were interested to see how it works in the nature. 
 
 So, we plotted seasonal mean of the variables to get an intuition of the correlation between the varables. Later, we got Pearson and Spearman correlation between variables. We found a good Pearson and Spearman inverse correlation between temperature and relative humidity. 
-On the other hand, we found a better inverse Spearman correlation than Pearson correlation between variables. It means, the correlation between temperature and humidity is linearly related with similar amount, whereas there is a very good monotonic inverse relationship 
+Even we found a better inverse Spearman correlation than Pearson correlation between variables. It means, the correlation between temperature and humidity is linearly related with similar amount, whereas there is a very good monotonic inverse relationship 
 betwee temperature and pressure, but the relationship is not so linear.
 
 
